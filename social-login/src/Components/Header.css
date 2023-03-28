@@ -1,0 +1,25 @@
+a {
+    text-decoration: none;
+}
+
+.lists {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: auto;
+    color: black;
+}
+
+.links {
+    font-size: 14px;
+    margin-right: 1.5rem;
+    color: black;
+    letter-spacing: 1px;
+
+}
+
+.linkbtn {
+    font-size: 14px;
+    color: black;
+
+}

@@ -1,0 +1,39 @@
+{
+  "SocialLogin": [
+    {
+      "id": 1,
+      "platform": "Satheesh",
+      "link": "Sat@mail.com"
+    },
+    {
+      "id": 2,
+      "platform": "John",
+      "link": "john@mail.com"
+    },
+    {
+      "id": 3,
+      "platform": "Robert",
+      "link": "robert@mail.com"
+    },
+    {
+      "id": 4,
+      "platform": "Mani",
+      "link": "mani@mail.com"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    }
+  ]
+}
